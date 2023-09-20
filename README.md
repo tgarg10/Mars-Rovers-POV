@@ -1,4 +1,4 @@
-# Mars Rover Image Explorer
+# 🚀 Mars Rover Image Explorer
 
 ## Introduction
 Welcome to the Mars Rover Image Explorer, an exciting website that leverages NASA's Mars Rovers API to display stunning images captured by the rovers on specific days. Our platform combines the power of Python's Django framework with HTML, JavaScript, and a user-friendly frontend to provide you with an immersive Martian experience.
